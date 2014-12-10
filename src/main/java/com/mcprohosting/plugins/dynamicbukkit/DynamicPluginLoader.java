@@ -1,6 +1,6 @@
 package com.mcprohosting.plugins.dynamicbukkit;
 
-import net.minecraft.util.com.google.common.io.Files;
+import com.google.common.io.Files;
 import org.reflections.Reflections;
 import org.reflections.util.ClasspathHelper;
 import org.reflections.util.ConfigurationBuilder;

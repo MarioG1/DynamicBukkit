@@ -83,11 +83,6 @@
             <id>spigotmc-snapshots</id>
             <url>http://repo.md-5.net/content/groups/public/</url>
         </repository>
-
-        <repository>
-            <id>uicraft-repo</id>
-            <url>http://ci.uicraft.com/plugin/repository/everything/</url>
-        </repository>
     </repositories>
 
     <dependencies>
